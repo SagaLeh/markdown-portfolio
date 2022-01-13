@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+# Random list of games
+- Sims
+- Minecraft
+- Spore
+- Gang beasts
+- Valorant
+- Genshin Impact
+- Super Mario
